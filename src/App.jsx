@@ -40,13 +40,13 @@ function App() {
             </a>
 
             <a
-              href="/Rashi_KP_SRE_Resume.pdf"
-              target="_blank"
-              rel="noreferrer"
-              className="btn secondary-btn"
-            >
-              View Resume
-            </a>
+  href="/Rashi_KP_SRE_Resume_Updated.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="btn btn-primary"
+>
+  View Resume
+</a>
           </div>
 
           <div className="hero-links">
@@ -61,7 +61,7 @@ function App() {
             <span>•</span>
 
             <a
-              href="https://github.com/"
+              href="https://github.com/Rashi464"
               target="_blank"
               rel="noreferrer"
             >
